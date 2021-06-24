@@ -1,1 +1,1 @@
-# google-maps-clone
+# google-maps-clone (Mapbox API)
